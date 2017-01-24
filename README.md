@@ -10,7 +10,7 @@ This android app provides the demo for implementing MVP Design Pattern in the ap
 
 ## Screenshots 
 
-![Screenshot](https://github.com/abhishek70/Android-MVP-DEMO/tree/master/screenshots/Login.png)
+![Screenshot](https://github.com/abhishek70/Android-MVP-DEMO/tree/master/screenshots/Login.gif)
 
 ## Open-source libraries used
 
